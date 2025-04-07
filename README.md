@@ -14,8 +14,8 @@ Flexbox/Grid 📐 <br>
 ![screencapture-rid212274-desafio01-netlify-app-2025-03-15-05_53_31](https://github.com/user-attachments/assets/06580e03-61c5-483f-a27a-e3fbf4cd909d)
 
 
-🔗 Acesse o Projeto
-🌍 https://rid212274-desafio01.netlify.app/
+🔗 Link do site disponibilizado:  https://rid212274-desafio01.netlify.app/
+Link da planilha de registro de informação: https://api.sheetmonkey.io/form/qLRR2S159v3ESmD5thKQWi
 
 📌 Projeto desenvolvido como parte da minha jornada de aprendizado em desenvolvimento web!
 
